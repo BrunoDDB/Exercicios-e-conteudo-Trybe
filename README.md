@@ -1,10 +1,10 @@
-#Repositório Principal dos exercicios e conteudos da Trybe
+# Repositório Principal dos exercicios e conteudos da Trybe
 
-- [] ##Fundamentos
+## - [] Fundamentos
 
-- [] ##Front-end
+## - [] Front-end
 
-- [] ##Back-end
+## - [] Back-end
 
-- [] ##Ciência da computação
+## - [] Ciência da computação
 
